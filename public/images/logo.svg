@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 108" width="340" height="108">
+  <!-- Arch mark -->
+  <path d="M0 108 V38 A38 38 0 0 1 76 38 V108 Z" fill="none" stroke="currentColor" stroke-width="1.4"/>
+  <path d="M12 108 V47 A26 26 0 0 1 64 47 V108 Z" fill="none" stroke="#B08D57" stroke-width="1"/>
+  <line x1="12" y1="88" x2="64" y2="88" stroke="#B08D57" stroke-width="0.7"/>
+  <!-- STUDIO -->
+  <text x="96" y="44"
+    font-family="'Jost', sans-serif"
+    font-size="13" font-weight="400" fill="currentColor"
+    letter-spacing="6">STUDIO</text>
+  <!-- Gold rule -->
+  <line x1="96" y1="56" x2="330" y2="56" stroke="#B08D57" stroke-width="0.7"/>
+  <!-- ARG -->
+  <text x="90" y="98"
+    font-family="'Cormorant Garamond', Georgia, serif"
+    font-size="52" font-weight="300" fill="currentColor">ARG</text>
+</svg>
