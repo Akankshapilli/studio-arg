@@ -22,7 +22,7 @@ export default function Footer() {
         <p className="font-[family-name:var(--font-jost)] text-[11px] font-light tracking-[0.1em] text-[#F6F1E9]/30">
           Designed &amp; Developed by{" "}
           <a
-            href="#"
+            href="https://akankshapilli.vercel.app/"
             className="text-[#B08D57] hover:text-[#C9A96E] transition-colors"
           >
             Akanksha Pilli
