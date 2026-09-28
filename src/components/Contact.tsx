@@ -115,7 +115,7 @@ export default function Contact() {
           >
             {[
               { label: "Email", value: "info@studioarg.in", icon: "✉" },
-              { label: "Phone", value: "+91 88855 08822", icon: "✆" },
+              { label: "Phone", value: "+91 88977 52244", icon: "✆" },
               { label: "Studio", value: "Hyderabad, India", icon: "◎" },
             ].map((item) => (
               <div key={item.label} className="flex items-start gap-4">
@@ -143,14 +143,25 @@ export default function Contact() {
           >
             {[
               {
+                name: "Facebook",
+                link: "https://www.facebook.com/people/studioargdesign/61590116750829/",
+              },
+              {
                 name: "Instagram",
                 link: "https://www.instagram.com/studioarg.design",
+              },
+            {
+                name: "Pinterest",
+                link: "https://www.pinterest.com/studioargin/"
               },
               {
                 name: "LinkedIn",
                 link: "https://linkedin.com/in/yourusername",
               },
-              { name: "Pinterest", link: "https://pinterest.com/yourusername" },
+            {
+                name: "YouTube",
+                link: "https://www.youtube.com/@StudioARG.design",
+              },
             ].map((s) => (
               <a
                 key={s.name}
